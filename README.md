@@ -12,7 +12,7 @@
 **Comfucius** is a fake-philosopher that drops questionable wisdom across multiple platforms.  
 What started as a joke is now a small open-source universe of apps, bots, extensions and more.
 
-Phrases are the same for EVERY user: they change from now and then, and they are generated matching a random "philosopher" with a random "quote" (that's manually collected from a curated databse)
+Phrases are the same for EVERY user: they change from now and then, and they are generated matching a random "philosopher" with a random "quote". Both things are manually picked from a curated database.
 
 This repo is the **official hub** for all things Comfucius, check single repo for code and links.
 
