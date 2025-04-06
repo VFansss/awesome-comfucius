@@ -14,7 +14,7 @@ What started as a joke is now a small open-source universe of apps, bots, extens
 
 Phrases are the same for EVERY user: they change from now and then, and they are generated matching a random "philosopher" with a random "quote". Both things are manually picked from a curated database.
 
-This repo is the **official hub** for all things Comfucius, check single repo for code and links.
+This repo is the **official hub** for all things about Comfucius, check single repo for code and links.
 
 ---
 
